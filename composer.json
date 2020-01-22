@@ -1,0 +1,10 @@
+{
+	"name": "leorm037/simple-holiday-album",
+	"version": "1.0.0",
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/leorm037/simple-holiday-album.git"
+		}
+	]
+}
